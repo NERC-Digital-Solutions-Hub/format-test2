@@ -32,11 +32,18 @@
 .pytest*
 __pycache__
 node_modules
-bin
 obj
 *.pyHistory
 *.png~
 *.zip
 *.sde
+*.csproj.user
+
+/Proj/bin/*
+/Proj/cfg/*
+/Proj/log/*
+/Proj/out/*
+/Proj/tmp/*
+/Proj/wsd/*
 
 
